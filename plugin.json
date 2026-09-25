@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fintable",
+  "version": "1.0.0",
+  "description": "Connect your Fintable account to explore bank transactions, balances, and investments, manage categories, and sync financial data with spreadsheets.",
+  "author": {
+    "name": "Fintable",
+    "email": "support@fintable.io",
+    "url": "https://fintable.io"
+  },
+  "homepage": "https://fintable.io/ai",
+  "repository": "https://github.com/ibnIrshad/fintable-grok-plugin",
+  "keywords": [
+    "fintable",
+    "finance",
+    "banking",
+    "transactions",
+    "spreadsheets",
+    "mcp"
+  ]
+}
